@@ -535,7 +535,9 @@
             * [RabinKarpAlgorithmTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/searches/RabinKarpAlgorithmTest.java)
           * sorts
             * [BinaryInsertionSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BinaryInsertionSortTest.java)
+            * [BitonicSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/BitonicSortTest.java)
             * [DutchNationalFlagSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/DutchNationalFlagSortTest.java)
+            * [PigeonholeSort](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/PigeonholeSort.java)
             * [QuickSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/QuickSortTest.java)
             * [SelectionSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/SelectionSortTest.java)
             * [StrandSortTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/sorts/StrandSortTest.java)
